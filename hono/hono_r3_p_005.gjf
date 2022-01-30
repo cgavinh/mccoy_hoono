@@ -1,7 +1,7 @@
 %nproc=28
 %mem=120GB
 %chk=/gscratch/ilahie/mccoygrp/coire_hoono/hono/hono_r3_p_005.chk
-#p SP mp2/gen Pseudo=read density=current
+#p SP mp2/aug-cc-pvtz density=current
 
 title
 
