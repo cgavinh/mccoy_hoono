@@ -19,30 +19,30 @@ set
 echo "**********************************************" 
 
 # run Gaussian
-g16 hono_r1_m_005.gjf
-g16 hono_r1_p_005.gjf
-g16 hono_r2_m_005.gjf
-g16 hono_r2_p_005.gjf
-g16 hono_r3_m_005.gjf
-g16 hono_r3_p_005.gjf
-g16 hono_a1_m_5.gjf
-g16 hono_a1_p_5.gjf
-g16 hono_a2_m_5.gjf
-g16 hono_a2_p_5.gjf
-g16 hono_d1_m_5.gjf
-g16 hono_d1_p_5.gjf
-formchk hono_r1_m_005.chk
-formchk hono_r1_p_005.chk
-formchk hono_r2_m_005.chk
-formchk hono_r2_p_005.chk
-formchk hono_r3_m_005.chk
-formchk hono_r3_p_005.chk
-formchk hono_a1_m_5.chk
-formchk hono_a1_p_5.chk
-formchk hono_a2_m_5.chk
-formchk hono_a2_p_5.chk
-formchk hono_d1_m_5.chk
-formchk hono_d1_p_5.chk 
+g16 hono_r1_m_01.gjf
+g16 hono_r1_p_01.gjf
+g16 hono_r2_m_01.gjf
+g16 hono_r2_p_01.gjf
+g16 hono_r3_m_01.gjf
+g16 hono_r3_p_01.gjf
+g16 hono_a1_m_10.gjf
+g16 hono_a1_p_10.gjf
+g16 hono_a2_m_10.gjf
+g16 hono_a2_p_10.gjf
+g16 hono_d1_m_10.gjf
+g16 hono_d1_p_10.gjf
+formchk hono_r1_m_01.chk
+formchk hono_r1_p_01.chk
+formchk hono_r2_m_01.chk
+formchk hono_r2_p_01.chk
+formchk hono_r3_m_01.chk
+formchk hono_r3_p_01.chk
+formchk hono_a1_m_10.chk
+formchk hono_a1_p_10.chk
+formchk hono_a2_m_10.chk
+formchk hono_a2_p_10.chk
+formchk hono_d1_m_10.chk
+formchk hono_d1_p_10.chk 
 
 
 
