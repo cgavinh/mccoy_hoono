@@ -43,8 +43,8 @@ echo "**********************************************"
 # formchk hono_a2_p_20.chk
 # formchk hono_d1_m_20.chk
 # formchk hono_d1_p_20.chk 
-g16 hono_d1_p_40.gjf
-formchk hono_d1_p_40.chk
+g16 hono_d1_m_40.gjf
+formchk hono_d1_m_40.chk
 
 
 
