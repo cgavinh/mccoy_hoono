@@ -1,6 +1,6 @@
 %nproc=28
 %mem=120GB
-%chk=/gscratch/ilahie/mccoygrp/coire_hoono/explore_disps/hoono_a1_95p93353487832248.log
+%chk=/gscratch/ilahie/mccoygrp/coire_hoono/explore_disps/hoono_r4_1p1786564152358043.chk
 #p SP mp2/aug-cc-pvtz density=current
 
 title
@@ -15,8 +15,8 @@ Variables
  r1=0.96897556
  r2=1.45491931
  r3=1.45878406
- r4=1.17072885
- a1=95.93353487832248
+ r4=1.1786564152358043
+ a1=97.59494903
  a2=102.29752444
  a3=109.06955123
  d1=180.0

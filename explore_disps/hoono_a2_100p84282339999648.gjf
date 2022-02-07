@@ -1,6 +1,6 @@
 %nproc=28
 %mem=120GB
-%chk=/gscratch/ilahie/mccoygrp/coire_hoono/explore_disps/hoono_a2_100p84282339999648.log
+%chk=/gscratch/ilahie/mccoygrp/coire_hoono/explore_disps/hoono_a2_100p84282339999648.chk
 #p SP mp2/aug-cc-pvtz density=current
 
 title
