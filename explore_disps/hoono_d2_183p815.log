@@ -1,5 +1,0 @@
- Entering Gaussian System, Link 0=g16
- Input=hoono_d2_183p815.gjf
- Output=hoono_d2_183p815.log
- Initial command:
- /sw/contrib/gaussian/g16/B01/g16/l1.exe "/scr/Gau-12807.inp" -scrdir="/scr/"
