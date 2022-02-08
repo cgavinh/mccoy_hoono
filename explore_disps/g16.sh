@@ -20,7 +20,7 @@ set
 echo "**********************************************" 
 
 # run Gaussian
-g16 hoono_d2_183p815.gjf
+g16 hoono_d2_176p1845813808062.gjf
 #g16 hoono_a1_95p93353487832248.gjf
 #g16 hoono_r1_0p9589951011496809.gjf
 #g16 hoono_a1_99p25636318167751.gjf
