@@ -4,7 +4,7 @@
 #SBATCH --nodes=1 
 #SBATCH --time=3:00:00
 #SBATCH --mem=120G
-#SBATCH --chdir=/gscratch/ilahie/mccoygrp/coire_hoono/5cm_disps/
+#SBATCH --chdir=/gscratch/ilahie/mccoygrp/coire_hoono/5cm_disp/
 #SBATCH --partition=ilahie
 #SBATCH --account=ilahie
 

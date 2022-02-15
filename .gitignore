@@ -1,0 +1,12 @@
+#Ignore core files
+*core.*
+
+#ignore .chk files
+*.chk
+
+#Ignore .zip files
+*.zip
+
+#Ignore image files
+*.png
+*.gif
