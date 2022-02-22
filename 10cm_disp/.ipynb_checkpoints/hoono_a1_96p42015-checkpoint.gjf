@@ -1,7 +1,7 @@
 %nproc=28
 %mem=120GB
-%chk=hoono_a2_103p5573.chk
-#p freq mp2/aug-cc-pvtz density=current
+%chk=hoono_a1_96p42015.chk
+#p SP mp2/aug-cc-pvtz density=current
 
 title
 
@@ -16,8 +16,8 @@ Variables
  r2=1.45491931
  r3=1.45878406
  r4=1.17072885
- a1=97.59494903
- a2=103.55733249555469
+ a1=96.42015181698953
+ a2=102.29752444
  a3=109.06955123
  d1=180.0
  d2=180.0

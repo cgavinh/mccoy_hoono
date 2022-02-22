@@ -1,7 +1,7 @@
 %nproc=28
 %mem=120GB
 %chk=hoono_r3_1p431179.chk
-#p SP Freq mp2/aug-cc-pvtz density=current
+#p freq mp2/aug-cc-pvtz density=current
 
 title
 
