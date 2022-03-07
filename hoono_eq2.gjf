@@ -1,0 +1,64 @@
+%nproc=28
+%mem=120GB
+%chk=hoono_eq.chk
+#p  freq opt=(z-matrix) mp2/aug-cc-pvtz density=current
+
+title
+
+0 1
+H 
+O 1 r1 
+O 2 r2 1 a1 
+N 3 r3 2 a2 1 d1
+O 4 r4 3 a3 2 d2
+Variables
+ r1=0.992
+ r2=1.318
+ r3=1.355
+ r4=1.354
+ a1=104.8
+ a2=104.8
+ a3=106.8
+ d1=105.3
+ d2=-110.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
