@@ -1,0 +1,23 @@
+from results of hono_eq.gjf
+
+ #p opt=(z-matrix) mp2/aug-cc-pvtz density=current\\title\\0,1\H\O,1,r1
+ \N,2,r2,1,a1\O,3,r3,2,a2,1,d1,0\\r1=0.97026274\r2=1.42776435\r3=1.1768
+ 0217\a1=101.62778538\a2=110.70859147\d1=180.\\Version=ES64L-G16RevB.01
+ \State=1-A'\HF=-204.723398\MP2=-205.4213546\RMSD=3.609e-09\RMSF=1.342e
+ -04\Dipole=-0.6909259,0.2579279,0.\Quadrupole=1.9463323,-1.8061443,-0.
+ 140188,-0.4314757,0.,0.\PG=CS [SG(H1N1O2)]\\@
+
+resulting z-matrix:
+
+0 1
+H
+O 1 r1
+N 2 r2 1 a1
+O 3 r3 2 a2 1 d1
+Variables
+ r1=0.97026274
+ r2=1.42776435
+ r3=1.17680217
+ a1=101.62778538
+ a2=110.70859147
+ d1=180.

@@ -1,6 +1,6 @@
 %nproc=28
 %mem=120GB
-%chk=/gscratch/ilahie/mccoygrp/coire_hoono/hoono_eq.chk
+%chk=hoono_eq.chk
 #p  freq opt=(z-matrix) mp2/aug-cc-pvtz density=current
 
 title
@@ -12,15 +12,15 @@ O 2 r2 1 a1
 N 3 r3 2 a2 1 d1
 O 4 r4 3 a3 2 d2
 Variables
- r1=0.990
- r2=1.316
- r3=1.353
- r4=1.353
- a1=104.5
- a2=104.5
- a3=106.7
- d1=180.
- d2=180.
+ r1=0.992
+ r2=1.318
+ r3=1.355
+ r4=1.354
+ a1=104.8
+ a2=104.8
+ a3=106.8
+ d1=105.3
+ d2=-110.5
 
 
 
