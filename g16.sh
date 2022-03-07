@@ -19,13 +19,14 @@ set
 echo "**********************************************" 
 
 # run Gaussian
-#g16 hono_r1_pert.gjf
+g16 hoono_eq.gjf
+formchk hoono_eq.chk
 #g16 hono_eq.gjf
 #g16 hono_r3_m_005.gjf
 #g16 hono_r3_p_005.gjf
 #g16 hoono_eq.gjf
-g16 hoono_eq_anharm.gjf
-formchk hoono_eq_anharm.chk
+#g16 hoono_eq_anharm.gjf
+#formchk hoono_eq_anharm.chk
 
 
 
